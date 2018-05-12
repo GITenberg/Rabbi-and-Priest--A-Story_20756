@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9506'
     url: http://www.gutenberg.org/2009/agents/9506
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20756#Rabbi-and-Priest--A-Story
 gutenberg_bookshelf: Judaism
 gutenberg_issued: '2007-03-06'
 gutenberg_type: Text
