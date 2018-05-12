@@ -1,0 +1,29 @@
+_repo: Rabbi-and-Priest--A-Story_20756
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goldsmith, Milton
+    birthdate: 1861
+    deathdate: 1957
+    gutenberg_agent_id: '9506'
+    url: http://www.gutenberg.org/2009/agents/9506
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2007-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20756'
+  lccn: 06043738
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Jewish fiction'
+- !lcsh 'Jews -- Fiction'
+title: 'Rabbi and Priest: A Story'
+url: http://www.gutenberg.org/ebooks/20756
